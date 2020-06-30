@@ -25,6 +25,7 @@
 		margin :auto;
 		font-size: 150%;
 		padding: 10px;
+		text-overflow: ellipsis;
 	}
 	@media (min-width:992px)
 	{
